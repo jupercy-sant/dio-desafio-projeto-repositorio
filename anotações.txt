@@ -1,0 +1,25 @@
+# Desafio de Projeto sobre Git/GitHub da DIO
+
+Repositório criado para o Desafio de Projeto.
+
+## Links úteis
+
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Site para aprender mas sobre a sintaxe básica de markdown: Basic Syntax | Markdown Guide
+
+Comandos úteis para o Git Bash:
+- 'cd' – possibilita que o usuário navegue entre as pastas
+- 'git status'
+- 'clear' - limpa o terminal
+- 'git add .' ou 'git add -A' - efetivamente enviar arquivos para o controle de versão. Adiciona apenas no controle de versão local.
+- 'git commit -m "Mensagem"' 
+- 'git push origin main' enviar todos os commits locais para a nuvem
+- 'mkdir' para criar diretórios
+- 'echo > arquivo.txt' - cria um arquivo de texto com o nome "arquivo".
+
+
+ 
